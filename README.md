@@ -5,7 +5,7 @@
         </a>
     </p>
 
-# **`Awesome`** [Automata]() Theory [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [Automata](https://cs.stanford.edu/people/eroberts/courses/soco/projects/2004-05/automata-theory/basics.html) Theory [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiVtIrktJ-edNGVkjHPmV6lh&si=VGL9CBnO5Q6noDAB)
