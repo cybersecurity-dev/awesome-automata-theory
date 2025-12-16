@@ -1,10 +1,14 @@
 <div align="center">
+    <p align="center">
+        <a href="https://wikipedia.org/wiki/Automata_theory">
+          <img width="40%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Automata_Theory.png" />
+        </a>
+    </p>
 
-
-# **`Awesome`** [Automata](https://wikipedia.org/wiki/Automata_theory) Theory [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [Automata]() Theory [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiVtIrktJ-edNGVkjHPmV6lh&si=VGL9CBnO5Q6noDAB)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/computerscience/new/)
 
 <p align="center">
