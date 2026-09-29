@@ -20,6 +20,58 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+```mermaid
+mindmap
+  root((Automata Theory))
+    Formal Languages
+      Alphabet
+      Strings
+      Grammar
+      Language Classes
+
+    Finite Automata
+      DFA
+      NFA
+      ε-NFA
+      Moore Machine
+      Mealy Machine
+
+    Regular Languages
+      Regular Expressions
+      Lexical Analysis
+      Pattern Matching
+
+    Pushdown Automata
+      Stack
+      Deterministic PDA
+      Non-Deterministic PDA
+      Context-Free Languages
+
+    Turing Machines
+      Single Tape
+      Multi Tape
+      Universal TM
+      Decidability
+
+    Computational Theory
+      Computability
+      Complexity
+      Reducibility
+      Halting Problem
+
+    Language Hierarchy
+      Regular
+      Context-Free
+      Context-Sensitive
+      Recursively Enumerable
+
+    Applications
+      Compiler Design
+      NLP
+      Protocol Verification
+      Model Checking
+      Malware Analysis
+```
 ## 📖 Contents
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
@@ -27,7 +79,6 @@
 
 
 ##
-
 
 ### My Other Awesome Lists
 - You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
